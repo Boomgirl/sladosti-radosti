@@ -80,6 +80,18 @@ h1 {
     font-size: 250%;
 }
 
+#enscart_image_wrapper {
+    background-color: #8d00d7;
+}
+
+#enscart_wrapper {
+    right: 20px;
+    top: 100px;
+    left: auto;
+    bottom: auto;
+}
+.powered {display:none}
+
 .menu {
     list-style-type: none;
     display: flex
@@ -919,18 +931,6 @@ form {
     border: none;
     cursor: pointer;
 }
-
-#enscart_image_wrapper {
-    background-color: #8d00d7;
-}
-
-#enscart_wrapper {
-    right: 20px;
-    top: 100px;
-    left: auto;
-    bottom: auto;
-}
-
 .gallery {
     display: flex;
     flex-wrap: wrap;
